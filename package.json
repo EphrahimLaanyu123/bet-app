@@ -1,0 +1,24 @@
+{
+  "name": "bet-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EphrahimLaanyu123/bet-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EphrahimLaanyu123/bet-app/issues"
+  },
+  "homepage": "https://github.com/EphrahimLaanyu123/bet-app#readme",
+  "dependencies": {
+    "papaparse": "^5.4.1",
+    "react-scripts": "^5.0.1"
+  }
+}
