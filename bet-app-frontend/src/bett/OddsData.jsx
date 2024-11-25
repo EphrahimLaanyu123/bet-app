@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
-import Bangbet from '/home/user/bet-app/bet-app-frontend/src/assets/Bangbet - Sheet1.csv';
-import Betika from '/home/user/bet-app/bet-app-frontend/src/assets/Betika - Sheet1.csv';
-import Betlion from '/home/user/bet-app/bet-app-frontend/src/assets/Betlion - Sheet1.csv';
-import Odibet from '/home/user/bet-app/bet-app-frontend/src/assets/Odibet - Sheet1.csv';
-import Sportpesa from '/home/user/bet-app/bet-app-frontend/src/assets/Sportpesa - Sheet1.csv';
+import Bangbet from '../assets/Bangbet - Sheet1.csv';
+import Betika from '../assets/Betika - Sheet1.csv';
+import Betlion from '../assets/Betlion - Sheet1.csv';
+import Odibet from '../assets/Odibet - Sheet1.csv';
+import Sportpesa from '../assets/Sportpesa - Sheet1.csv';
 import './OddsData.css';
 
 const OddsData = () => {
